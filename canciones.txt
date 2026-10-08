@@ -1,0 +1,15 @@
+1,Bohemian Rhapsody,Queen,A Night at the Opera,354
+2,Hotel California,Eagles,Hotel California,391
+3,Stairway to Heaven,Led Zeppelin,Led Zeppelin IV,482
+4,Billie Jean,Michael Jackson,Thriller,294
+5,Take Five,The Dave Brubeck Quartet,Time Out,324
+6,Despacito,Luis Fonsi,Vida,228
+7,Lose Yourself,Eminem,8 Mile Soundtrack,326
+8,Pedro Navaja,Ruben Blades,Siembra,441
+9,Three Little Birds,Bob Marley & The Wailers,Exodus,180
+10,Get Lucky,Daft Punk,Random Access Memories,248
+11,Master of Puppets,Metallica,Master of Puppets,515
+12,Shape of You,Ed Sheeran,÷ (Divide),233
+13,Smells Like Teen Spirit,Nirvana,Nevermind,301
+14,Lamento Boliviano,Enanitos Verdes,Big Bang,223
+15,Sweet Child O Mine,Guns N Roses,Appetite for Destruction,356
